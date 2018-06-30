@@ -2,6 +2,11 @@ package predicate;
 
 import java.util.function.Predicate;
 
+/**
+ * 
+ * @author albertodiaz
+ *
+ */
 public class PredicateFI {
 
 	public static void main(String[] args) {
